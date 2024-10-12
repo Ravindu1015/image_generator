@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravindu1015/imageGen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravindu1015/imageGen/issues"
+  },
+  "homepage": "https://github.com/Ravindu1015/imageGen#readme",
+  "description": "",
+  "dependencies": {
+    "server": "file:"
+  }
+}
